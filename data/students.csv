@@ -1,0 +1,61 @@
+student_id,name,class,section,gender
+S001,Robert Armstrong,9,A,Female
+S002,Christine Mcdonald MD,9,C,Male
+S003,Kelli Phillips,9,C,Female
+S004,Brandon Jimenez,9,A,Male
+S005,Mrs. Ashley Browning,9,C,Male
+S006,Mr. Alex Gillespie MD,10,A,Female
+S007,James Morrow,9,A,Female
+S008,Wanda Griffin,9,A,Female
+S009,Joshua Armstrong,10,A,Female
+S010,David Spencer,10,A,Female
+S011,Nicole Watkins,10,A,Female
+S012,Raymond Frye,10,C,Male
+S013,Christopher Powers,9,C,Male
+S014,Michele Fuentes,9,A,Male
+S015,Jennifer Miller,10,C,Female
+S016,Kelly Cohen,10,A,Female
+S017,Laura Johnson DVM,9,C,Male
+S018,Samantha Johnson,9,A,Female
+S019,Mary Sullivan,9,C,Female
+S020,Megan Glover,9,A,Male
+S021,Debra Williams,10,B,Male
+S022,Michael Mendoza,10,A,Female
+S023,Susan Bridges,10,A,Female
+S024,Reginald Duke,10,C,Female
+S025,Heather James,10,B,Male
+S026,Nathan Stevens,9,C,Female
+S027,Valerie Smith,9,A,Male
+S028,Patricia Olson,10,C,Male
+S029,Carolyn Smith,10,C,Female
+S030,Jerry Johnson,9,C,Male
+S031,Phillip Ramos,10,C,Female
+S032,Travis Holt,10,A,Female
+S033,Jessica Oconnor DDS,10,C,Male
+S034,Mr. Luis Nelson DVM,9,C,Female
+S035,Edward Wilson,9,A,Female
+S036,Nicole Trujillo,9,C,Female
+S037,Mandy Mason,9,B,Female
+S038,Matthew Cook,9,C,Male
+S039,Richard Young,10,A,Male
+S040,Eddie Ryan Jr.,10,C,Male
+S041,Jason Fisher,10,A,Male
+S042,Kevin Hall,10,C,Female
+S043,Jennifer Wright,10,A,Male
+S044,Sydney Smith,10,A,Male
+S045,David Patterson,9,A,Male
+S046,Jordan Watson,9,B,Male
+S047,Julie Horton,10,C,Female
+S048,Mitchell Marquez,9,C,Female
+S049,Lisa Watkins,10,B,Male
+S050,Joseph Walker,10,B,Female
+S051,Anthony Byrd,9,C,Male
+S052,Aaron Casey,10,A,Male
+S053,Aaron Grant,10,A,Female
+S054,Sean Page,10,A,Male
+S055,Robert Johnson,9,A,Male
+S056,Savannah Bass,9,A,Female
+S057,Anita Wallace,9,B,Male
+S058,Jennifer Cruz,9,B,Female
+S059,David Jordan,10,B,Female
+S060,Sarah Miles,10,A,Male

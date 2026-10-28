@@ -1,0 +1,17 @@
+STUDENT PERFORMANCE ANALYSIS -- SUMMARY REPORT
+==================================================
+
+Total Enrolled Students: 60
+Overall Cohort Average:   68.78%
+Cohort Pass Rate:         86.7%
+Attendance Correlation:   r = 0.8075 (Strong positive correlation — higher attendance leads to better marks.)
+Top Performer:            Carolyn Smith (96.0%, Grade A+)
+At-Risk Count:            8 students
+
+Subject Rankings:
+  1. English: 70.2% (Max: 100.0, Min: 20.0)
+  2. History: 69.5% (Max: 100.0, Min: 14.0)
+  3. Computer: 69.2% (Max: 100.0, Min: 29.0)
+  4. Math: 68.6% (Max: 100.0, Min: 35.0)
+  5. Geography: 67.7% (Max: 100.0, Min: 0.0)
+  6. Science: 67.3% (Max: 100.0, Min: 24.0)
